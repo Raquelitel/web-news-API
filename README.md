@@ -56,6 +56,3 @@ $ npm run dev
 
 Feel free to **create a new issue** with a respective title and description on the [web-News-API](https://github.com/Raquelitel/web-news-API/issues) repository. If you find a solution to any problem, **I would love to review your pull request**!
 
-/Users/raquel/webNoticiasApi/blog noticias.mp4
-
-<a href="{/Users/raquel/webNoticiasApi/blog noticias.mp4}" title="Blog noticias"><img src="{/Users/raquel/webNoticiasApi/blog noticias.mp4}" alt="blog noticias" /></a>
