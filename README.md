@@ -31,7 +31,7 @@ This project was made with Vite and Vite requires Node.js. Please go to oficial 
 * [ViteJs](https://vitejs.dev/) 
 * [NodeJs](https://nodejs.org/en/) 
 
-You have to create environment variables to API Key [News API](https://newsapi.org/)
+You have to create environment variables to API Key [News API](https://newsapi.org/) This API only work in developmental stage.
 
 
 ```bash
